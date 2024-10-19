@@ -4,5 +4,5 @@ go to file the my-app folder
 npm install- to install node modules
 ## starting
 npm run dev- to start
-# pre-requesists
+## pre-requesists
 install backend also 
